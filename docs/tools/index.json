@@ -1,0 +1,9 @@
+{
+  "os_list": [
+    {
+      "name": "OS Managers",
+      "icon": "https://rpi-imager-repo.jvprat.com/tools/os-managers.png",
+      "subitems_url": "https://rpi-imager-repo.jvprat.com/tools/os-managers.json"
+    }
+  ]
+}

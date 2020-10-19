@@ -1,0 +1,20 @@
+{
+  "os_list": [
+    {
+      "name": "Raspberry Pi OS",
+      "icon": "https://downloads.raspberrypi.org/raspios_armhf/Raspberry_Pi_OS_(32-bit).png"
+    },
+    {
+      "name": "Ubuntu",
+      "description": "Choose from Ubuntu Core and Server images",
+      "icon": "https://assets.ubuntu.com/v1/85a9de76-ubuntu-icon.svg",
+      "subitems_url": "https://changelogs.ubuntu.com/raspi/os_list_imagingutility_ubuntu.json"
+    },
+    {
+      "name": "ALT",
+      "description": "Choose from ALT images",
+      "icon": "https://getalt.org/raspi/logo-alt-ext.png",
+      "subitems_url": "https://getalt.org/raspi/os_list_imagingutility_alt.json"
+    }
+  ]
+}

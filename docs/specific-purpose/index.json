@@ -1,0 +1,32 @@
+{
+  "os_list": [
+    {
+      "name": "Media",
+      "description": ""
+    },
+    {
+      "name": "Gaming",
+      "description": ""
+    },
+    {
+      "name": "Emulation",
+      "description": ""
+    },
+    {
+      "name": "Home automation",
+      "description": ""
+    },
+    {
+      "name": "Miscellaneous",
+      "description": "",
+      "subitems": [
+        {
+          "name": "info-beamer",
+          "description": "Turn your Raspberry Pi into a digital signage display or video wall.",
+          "icon": "https://info-beamer.com/repo.png",
+          "subitems_url": "https://info-beamer.com/repo.json"
+        }
+      ]
+    }
+  ]
+}

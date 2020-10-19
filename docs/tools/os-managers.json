@@ -1,0 +1,16 @@
+{
+  "os_list": [
+    {
+      "name": "NOOBS",
+      "description": "New Out Of the Box Software",
+      "icon": "https://rpi-imager-repo.jvprat.com/tools/noobs.png",
+      "subitems_url": "https://rpi-imager-repo.jvprat.com/tools/noobs.json"
+    },
+    {
+      "name": "PINN",
+      "description": "A multi-boot OS installer with OS admin features",
+      "icon": "https://raw.githubusercontent.com/procount/pinn-os/master/iu/pinn.png",
+      "subitems_url": "https://raw.githubusercontent.com/procount/pinn-os/master/iu/os_list_iu_pinn.json"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "os_list": [
+    {
+      "name": "NOOBS",
+      "icon": "https://rpi-imager-repo.jvprat.com/tools/noobs.png"
+    },
+    {
+      "name": "NOOBS Lite",
+      "icon": "https://rpi-imager-repo.jvprat.com/tools/noobs.png"
+    }
+  ]
+}

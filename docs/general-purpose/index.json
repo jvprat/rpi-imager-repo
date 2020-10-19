@@ -1,0 +1,16 @@
+{
+  "os_list": [
+    {
+      "name": "Linux distros",
+      "description": "General purpose Linux distributions",
+      "icon": "https://rpi-imager-repo.jvprat.com/general-purpose/linux.png",
+      "subitems_url": "https://rpi-imager-repo.jvprat.com/general-purpose/linux.json"
+    },
+    {
+      "name": "Others",
+      "description": "Alternative general purpose operating systems",
+      "icon": "https://rpi-imager-repo.jvprat.com/general-purpose/others.png",
+      "subitems_url": "https://rpi-imager-repo.jvprat.com/general-purpose/others.json"
+    }
+  ]
+}
